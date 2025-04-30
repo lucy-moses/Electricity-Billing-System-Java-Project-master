@@ -60,6 +60,7 @@ database_schema.sql (complete DB schema)
 
 https://1drv.ms/v/c/11952a2190070749/EZqERDDBcANBoO1nfbsI1zABqnp07EWER9AkBLzCJw1vXA
 
+
 The admin can create a new customer with new meter information assigned to the customer, view all customer details, and calculate the bills of all the customers.
 
 The user can create his own account after the admin has created his meter information and once the account is created user can view his account information.
@@ -132,35 +133,81 @@ Customer Side:
 Signup
 Capture
 
+
+![image](https://github.com/user-attachments/assets/54e0198a-3703-4f83-87f9-d23a80396fbe)
+
+
 Login Page
 Capture1
+
+
+![image](https://github.com/user-attachments/assets/7e586e74-14be-4add-9a6d-ff987edd7a45)
+
 
 Main Page
 Capture2
 
+
+![image](https://github.com/user-attachments/assets/365eb28a-8cb2-4046-a45e-101cfad5bc42)
+
+
 Generate Bill
 Capture3
+
+
+![image](https://github.com/user-attachments/assets/8410fe35-94a6-4d77-a1b1-baf249cff6a0)
+
+
 
 Pay Bill
 Capture4
 
-Payment Page Of Paytm
-5
+
+![image](https://github.com/user-attachments/assets/ac8049b6-6ae1-4314-9892-7c14b4315603)
+
+
 
 Bill Details
 6
 
+
+![image](https://github.com/user-attachments/assets/aab1592a-17e2-444f-bd99-4f6f6cd1e99d)
+
+
 Update Customer Information
 7
+
+
+![image](https://github.com/user-attachments/assets/7f28cbdb-7d0c-4ae1-92ab-872ecd9c0db4)
+
+
 
 View Customer Information
 8
 
-Admin Side:
+
+![image](https://github.com/user-attachments/assets/64355045-03ad-4379-9640-5b578490e0c7)
+
+
+# Admin Side:
 Add New Customer
 9
+
+
+![image](https://github.com/user-attachments/assets/0f13d866-7f70-45a1-931f-9557d6605734)
+
+
+
 
 Customer Details
 10
 
+![image](https://github.com/user-attachments/assets/ff96c79c-4ce0-496c-8b6b-3b99b28690a7)
+
+
+
+
 Calculate Electricity Bill
+
+
+![image](https://github.com/user-attachments/assets/6bdfa41f-0508-4a27-9710-986596bab025)
